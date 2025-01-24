@@ -23,11 +23,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-/**
- * @author frx
- * @version 1.0
- * @date 2022/6/6  21:25
- */
 @Slf4j
 @RestController
 @RequestMapping("/order")
